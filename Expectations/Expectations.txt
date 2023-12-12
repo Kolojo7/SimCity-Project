@@ -1,0 +1,119 @@
+New Features:
+1. Fix zone population updates (adjacency check function) - Kolade
+   a. Milestone: get component working as expected at end of Project 1
+   b. Final: Add different types of residential zones - houses and apartments with different limits on population
+2. Fix pollution updates - Nidhi
+   a. Milestone: get component working as expected at end of Project 1
+   b. Final: add types of pollution (light, sound, and air) and add region comparison
+3. User-generated analysis - Monique
+   a. Milestone: get component working as expected at end of Project 1
+   b. Final: Being able to go back and forth through time steps
+4. Unit testing - Sankh
+   a. Milestone: Unit testing Industrial and Commercial (documenting and then adding as wiki) using their old component codes
+   b. Final: Documenting unit testing for all components and adding them as wiki
+
+
+Preferred Communication Methods:
+* Usual: Discord
+* Meetings: Discord
+* Announcements: Teams and Discord
+* Urgent: Texts
+
+
+Check-in Frequency:
+* At least once a week
+   * Every Friday at 5pm
+   * Additional meetings will be planned a minimum of 2 days in advance and communicated to the group
+* Once a week individual check-ins with ScrumMaster
+   * Not necessarily meetings, quick text conversation will suffice unless otherwise needed
+
+
+Check-in Tasks:
+For ScrumMaster: 
+* Discord reminder 30 minutes before meetings
+* Weekly check-in on availability/workload with each member
+   * Concurrent school work/projects affecting availability for project
+   * Time conflicts
+   * Need for redistributing work
+* Schedule meetings + create reminders for the next scheduled meeting
+
+
+For Product Owner:
+* Review/quick test and overview of functionality
+   * Once a week
+* Make edits to the backlog as necessary
+   * Get in touch with team members about the priority of work
+
+
+With Instructor/Grader:
+* Review work that has been completed + needs to be completed
+* Each team member will share their responsibilities in case changes have been made to group expectations
+
+
+Group-Assigned Deadlines:
+*EOD unless otherwise listed
+
+Milestone Deadlines
+* Pseudocode (Optional) - Wednesday, November 8th
+* Convert to C++ - Friday, November 10th
+* Troubleshooting - Sunday, November 12th
+* Peer review - Monday, November 13th
+* Commenting - Tuesday, November 14th
+
+Final Deadlines
+* Pseudocode (Optional) - Tuesday, November 21st
+* Convert to C++ - Friday, November 24th
+* Troubleshooting - Sunday, November 26th
+* Peer review - Monday, November 27th
+* Commenting - Tuesday, November 28th
+
+Wiki Deadlines
+* Page 1 - Monday, November 20th
+   * Diagram by Monique - Monday, November 20th
+* Major Functionality Pages
+   * Outlines - Tuesday, November 21st
+   * Completion -  Sunday, November 26th
+* Peer Review/Edits - Tuesday, November 28th
+
+
+Missed Deadline Recovery Strategy:
+* If it seems as though a team member will not be able to finish their work before a group-assigned deadline, it is their responsibility to communicate that
+   * Brief meeting may be necessary to redelegate work
+* If group-assigned deadline is missed:
+   * Work will be re-delegated to other team members if needed
+   * New deadline will be 1-2 days after initial deadline (if class deadlines allow)
+   * Less time to peer-review work, so member in charge may also need to ensure that comments and functionality are working themselves
+
+
+Milestone Submission Process:
+* Goals for submission:
+   * Have pollution working, fix pollution and zone updates
+* Finish code a few days in advance
+* All group members must peer-evaluate
+   * Leave comments and notify other team members if changes are made
+* Have one person (Nidhi) submit .zip of all files (including README) by November 14th
+   * Gives other members time to ensure that documents were all uploaded properly for them
+* If last-minute changes are made after submission, team members must notify the submitter ASAP
+
+
+Final Submission Process:
+* Finish code a few days in advance (all features must be working)
+* All group members must peer-evaluate
+   * Leave comments and notify other team members if changes are made
+* Have one person (Nidhi) submit .zip of all code files (and README) by November 28th
+   * Do not include Wiki and other documentation files, only README
+   * Gives other members time to ensure that documents were all uploaded properly for them
+* If last-minute changes are made after submission, team members must notify the submitter asap
+
+
+Wiki Generation:
+* Documentation:
+   * One page for high-level description of system
+   * One page for each major functionality component 
+      * Each team member will write the pages for their components
+         * Must address all requirements (functionality, data storage/maintenance, purpose)
+         * Template will be provided by Nidhi
+* Visualization:
+   * Diagram of entire system
+   * Optional: diagrams for each component
+      * Can be finalized in later meetings once wiki is in progress
